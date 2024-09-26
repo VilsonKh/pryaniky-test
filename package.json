@@ -1,7 +1,7 @@
 {
   "name": "my-spa",
   "version": "0.1.0",
-  "homepage": "https://github.com/VilsonKh/pryaniky-test",
+  "homepage": "https://vilsonkh.github.io/pryaniky-test/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.3",
